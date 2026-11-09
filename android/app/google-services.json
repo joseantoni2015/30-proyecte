@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "302093774654",
+    "firebase_url": "https://sistemaacademico-64b3a-default-rtdb.firebaseio.com",
+    "project_id": "sistemaacademico-64b3a",
+    "storage_bucket": "sistemaacademico-64b3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302093774654:android:6505c07a45d0435eecc66f",
+        "android_client_info": {
+          "package_name": "com.miproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvU2N7mjpT1fKLU9iqdlrhVtCNYiL67SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -11,6 +11,8 @@
     "web": "vite --host 0.0.0.0"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^27.1.0",
+    "@react-native-firebase/firestore": "^27.1.0",
     "@react-native/new-app-screen": "0.88.1",
     "react": "19.3.0",
     "react-dom": "^19.3.0",
